@@ -1,7 +1,6 @@
-## - SQL Database Management Intern :Task 1
+##  Database Management Intern :Task 1
 ## Design and Implement a Relational Database for a Library Management System:
------------------------------------------------------------------------------
-* Library Management System SQL Solution
+----------------------------------------------------------------------------
 
 # 📚 Project Overview
 ----------------------
