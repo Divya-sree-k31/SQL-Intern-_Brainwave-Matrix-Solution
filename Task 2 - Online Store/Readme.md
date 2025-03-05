@@ -1,8 +1,8 @@
-Database Management Intern : TASK 2
-------------------------------------
-Database Development Project: E-Commerce Database Management System
+##  Database Management Intern : TASK 2
+##  Database Development Project: E-Commerce Database Management System
 ----------------------------------------------------------------------
 Project Overview :
+-----------------
 
 Designed and implemented a comprehensive relational database solution for an e-commerce platform, demonstrating advanced database management and SQL development skills. The project showcases expertise in database design, data modeling, and complex query development.
 
