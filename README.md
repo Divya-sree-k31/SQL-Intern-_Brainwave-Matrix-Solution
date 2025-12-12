@@ -1,4 +1,4 @@
-Internship at Brainwave Matrix Solution 
+ SQL projects
 ---------------------------------------
 ➡️ Overview :
 ----------
